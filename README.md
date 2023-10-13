@@ -21,6 +21,14 @@ The Pizza Bill Generator is a Java application designed to assist in the creatio
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
+
    git clone https://github.com/your-username/pizza-bill-generator.git
    cd pizza-bill-generator
+   
+2. **Run the Application:**
+   javac Pizza/Main.java
+   java Pizza.Main
+   
+4. **Customize Pizza Orders:**
+   Open Main.java to customize pizza orders, add toppings, and modify options.
+   Run the application again to see updated bills.
